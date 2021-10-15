@@ -10,8 +10,8 @@ function ImgSlider() {
         dots: true,
         Infinite: true,
         speed: 500,
-        sliderToShow: 1,
-        sliderToScroll: 1,
+        slidesToShow: 1,
+        slidesToScroll: 1,
         autoplay: true
     }
     return (
